@@ -17,3 +17,31 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.form-group{
+  text-align: center;
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+}
+.sub{
+  background-color: green;
+  width: 150px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  width: 150px;
+  display: flex;
+}
+
+img{
+  background-color: black;
+}
+.del{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+}
