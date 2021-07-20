@@ -15,7 +15,7 @@ THis an angular application to create an application where users can create quot
 
   
 ### Setup
-1. Clone the repo
+1. Clone the repository from the github
 
 ```sh 
 https://github.com/Kiptoo462/Angular-Quotes.git
