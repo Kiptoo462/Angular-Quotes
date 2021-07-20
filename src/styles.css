@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.css";
+
+h1{
+  height: 130px;
+  color: white;
+  background-color: rgb(169, 176, 214);
+  text-align: center;
+  
+}
